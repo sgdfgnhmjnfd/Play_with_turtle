@@ -1,0 +1,8 @@
+prefix=/home/judyshin/catkin_ws/devel
+
+Name: play_with_turtle
+Description: Description of play_with_turtle
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
