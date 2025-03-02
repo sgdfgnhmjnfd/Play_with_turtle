@@ -1,2 +1,0 @@
-beginner_tutorials:my_robot_controller:play_with_turtle
--DCATKIN_DEVEL_PREFIX=/home/judyshin/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/judyshin/catkin_ws/install -G Unix Makefiles
